@@ -153,6 +153,16 @@ A two-layer experience showcasing both personality and professionalism — becau
 
 ---
 
+<div align="center">
+  
+### 💭 Random Dev Quote
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -166,17 +176,6 @@ I'm always open to collaborating on interesting projects or just having a chat a
 </div>
 
 ---
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=MakazhanAlpamys&color=blueviolet&style=for-the-badge)
