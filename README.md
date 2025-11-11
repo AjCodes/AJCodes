@@ -44,7 +44,6 @@ const aboutMe = {
 | 🎯 **[FocusUp](https://github.com/AjCodes/FocusUp)** | Gamified Pomodoro timer with RPG elements and habit tracking | React Native • TypeScript • Supabase • Expo |
 | 🎨 **[Portfolio Website](https://github.com/AjCodes/Portfolio-Website)** | Two-layer interactive portfolio with personality-driven design | React • Framer Motion • Tailwind • Three.js |
 | 🧟 **The Last Shelter** | 2D zombie survival game with comprehensive mechanics | Godot Engine • GDScript |
-| ✅ **DayCraft** | Productivity web app combining Pomodoro, tasks & habits | React • PWA |
 
 ### **Interactive Portfolio Website** (In Progress)
 A two-layer experience showcasing both personality and professionalism — because portfolios shouldn't be boring.  
@@ -61,11 +60,11 @@ A two-layer experience showcasing both personality and professionalism — becau
 <div align="center">
   
 <a href="https://github.com/AJCodes">
-<<<<<<< HEAD
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJCodes&theme=radical" alt="Profile Summary" />
 =======
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakazhanAlpamys&theme=radical" alt="Profile Summary" />
->>>>>>> fd384bed5ffd0b338c43daba85666767b420afa5
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJCodes&theme=radical" alt="Profile Summary" />
+
 </a>
 
 </div>
@@ -131,15 +130,7 @@ A two-layer experience showcasing both personality and professionalism — becau
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AJCodes&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AJCodes&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AJCodes&theme=radical" 
 </div>
 
 ---
