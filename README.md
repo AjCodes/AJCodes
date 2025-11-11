@@ -1,14 +1,8 @@
 <div align="center">
-
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AJ+%E2%80%94+Building+at+the+Intersection;of+Design%2C+Technology+%26+Human+Insight" alt="Typing SVG" />
-
-<br/>
-
-
+AJ
+Bridging Creativity, Technology & Human Insight
 
 </div>
-
 ---
 
 ## 👋 Who I Am
