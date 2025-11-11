@@ -61,7 +61,7 @@ A two-layer experience showcasing both personality and professionalism — becau
 
 <div align="center">
   
-<a href="https://github.com/MakazhanAlpamys">
+<a href="https://github.com/AJCodes">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakazhanAlpamys&theme=radical" alt="Profile Summary" />
 </a>
 
@@ -71,18 +71,18 @@ A two-layer experience showcasing both personality and professionalism — becau
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MakazhanAlpamys&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AJCodes&theme=radical" alt="Repos per Language" />
 </td>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakazhanAlpamys&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AJCodes&theme=radical" alt="Most Commit Language" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MakazhanAlpamys&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AJCodes&theme=radical" alt="Stats" />
 </td>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MakazhanAlpamys&theme=radical&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AJCodes&theme=radical&utcOffset=1" alt="Productive Time" />
 </td>
 </tr>
 </table>
