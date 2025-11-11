@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <rect width="1200" height="400" fill="#0b1a2b"/>
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c8a2ff"/>
+      <stop offset="50%" stop-color="#ff6ad5"/>
+      <stop offset="100%" stop-color="#ffa08c"/>
+      <animate attributeName="x1" values="0%;100%" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <path fill="#ff6b88" d="M0,300 C300,280 600,320 900,300 1200,320 L1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="0s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#ff8ea1" d="M0,310 C300,290 600,330 900,310 1200,330 L1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="2s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#ffb3b0" d="M0,320 C300,300 600,340 900,320 1200,340 L1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="4s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#ffcfc0" d="M0,330 C300,310 600,350 900,330 1200,350 L1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="6s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#ffe1d0" d="M0,340 C300,320 600,360 900,340 1200,360 L1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="8s" repeatCount="indefinite"/>
+  </path>
+  <text x="50%" y="40%" text-anchor="middle" font-size="64" font-family="Poppins, sans-serif" fill="url(#textGradient)">AJ</text>
+  <text x="50%" y="55%" text-anchor="middle" font-size="24" font-family="Poppins, sans-serif" fill="url(#textGradient)">Full-Stack Developer Who Thinks Beyond The Code</text>
+</svg>

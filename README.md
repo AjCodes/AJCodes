@@ -1,18 +1,27 @@
+<p align="center">
+  <img src="assets/ajcodex_animated_banner.svg" alt="AJ Codex Banner" width="100%"/>
+</p>
+
 <div align="center">
-## AJ
+
+## AJ  
 Building Digital Products That Connect Humans & Technology in Intentional Ways
 
 </div>
+
 ---
 
 ## 👋 Who Am I
 
-I'm someone who bridges creativity, technology, and human insight. I don't just build products — I think about **the impact behind the idea**, combining design, logic, and intention to create digital experiences that people actually connect with.
+I'm someone who bridges creativity, technology, and human insight.  
+I don't just build products — I think about **the impact behind the idea**, combining design, logic, and intention to create digital experiences that people actually connect with.
 
 **What makes me different?**  
-I understand enough across design, business, and software development to connect disciplines that usually stay apart. I'm hands-on with tech, but what defines me is **how I think**: critically, strategically, and always one step ahead of the problem.
+I understand enough across design, business, and software development to connect disciplines that usually stay apart.  
+I'm hands-on with tech, but what defines me is **how I think**: critically, strategically, and always one step ahead of the problem.
 
-I'm detail-driven, analytical, and someone who overthinks until things make perfect sense. That mindset helps me spot patterns, weaknesses, and opportunities others miss.
+I'm detail-driven, analytical, and someone who overthinks until things make perfect sense.  
+That mindset helps me spot patterns, weaknesses, and opportunities others miss.
 
 ---
 
@@ -66,7 +75,8 @@ Applying AI to urban infrastructure challenges — optimizing traffic flow throu
 
 > **"I care about the impact behind an idea — seeing how design, logic, and intention can shape something people actually connect with."**
 
-I take concepts (mine or others') and turn them into meaningful digital products that balance **vision with function**. My goal is to keep building work that matters: products where humans and technology meet in smart, intentional ways.
+I take concepts (mine or others') and turn them into meaningful digital products that balance **vision with function**.  
+My goal is to keep building work that matters: products where humans and technology meet in smart, intentional ways.
 
 ---
 
@@ -76,8 +86,8 @@ I'm open to remote opportunities with **startups and creative agencies** that va
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 
 **Currently based in Eindhoven, Netherlands 🇳🇱**  
