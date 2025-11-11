@@ -5,7 +5,7 @@
 
 <br/>
 
-
+**🇾🇪 Born in Yemen → 🇲🇾 Shaped in Malaysia → 🇳🇱 Creating in the Netherlands**
 
 </div>
 
@@ -24,37 +24,51 @@ I'm detail-driven, analytical, and someone who overthinks until things make perf
 
 ## 🚀 What I'm Building Right Now
 
+### **[FocusUp](https://github.com/yourusername/focusup)** — Behavioral Productivity Tool
+Combining thoughtful design, behavioral psychology, and solid technology to help people stay disciplined and motivated. This represents my approach: products that connect humans and technology in smart, intentional ways.
+
 ### **Interactive Portfolio Website** (In Progress)
 A two-layer experience showcasing both personality and professionalism — because portfolios shouldn't be boring.  
 🎯 **Layer 1:** The Experience (multicultural journey, interests, Easter eggs)  
 💼 **Layer 2:** The Professional Portal (OS simulator-style interface with AI chatbot)
 
-### **AI Traffic Light Automation** (In Progress)
+### **AI Traffic Light Automation** (Group Project)
 Applying AI to urban infrastructure challenges — optimizing traffic flow through intelligent system design.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 </div>
 
-📊 GitHub Activity
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-Show Image
-Show Image
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
+
 </div>
+
 ---
 
 ## 💡 Philosophy
