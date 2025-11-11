@@ -24,15 +24,12 @@ I'm detail-driven, analytical, and someone who overthinks until things make perf
 
 ## 🚀 What I'm Building Right Now
 
-### **[FocusUp](https://github.com/yourusername/focusup)** — Behavioral Productivity Tool
-Combining thoughtful design, behavioral psychology, and solid technology to help people stay disciplined and motivated. This represents my approach: products that connect humans and technology in smart, intentional ways.
-
 ### **Interactive Portfolio Website** (In Progress)
 A two-layer experience showcasing both personality and professionalism — because portfolios shouldn't be boring.  
 🎯 **Layer 1:** The Experience (multicultural journey, interests, Easter eggs)  
 💼 **Layer 2:** The Professional Portal (OS simulator-style interface with AI chatbot)
 
-### **AI Traffic Light Automation** (Group Project)
+### **AI Traffic Light Automation** (In Progress)
 Applying AI to urban infrastructure challenges — optimizing traffic flow through intelligent system design.
 
 ---
