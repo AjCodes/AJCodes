@@ -62,7 +62,7 @@ A two-layer experience showcasing both personality and professionalism — becau
 <a href="https://github.com/AJCodes">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJCodes&theme=radical" alt="Profile Summary" />
-=======
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJCodes&theme=radical" alt="Profile Summary" />
 
 </a>
