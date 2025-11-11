@@ -34,37 +34,27 @@ Applying AI to urban infrastructure challenges — optimizing traffic flow throu
 
 ---
 
-## 🛠️ Tech Stack
-
-```text
-Frontend    → React · TypeScript · JavaScript · HTML5 · CSS3
-Tools       → Figma · Libresprite · Git
-Backend     → Python · Node.js
-Focus       → Cross-disciplinary problem solving · UX thinking · System design
-```
-
+🛠️ Tech Stack
 <div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
 
----
-
-## 📊 GitHub Activity
-
+📊 GitHub Activity
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
-
+Show Image
+Show Image
 </div>
-
 ---
 
 ## 💡 Philosophy
