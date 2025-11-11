@@ -5,7 +5,7 @@ Bridging Creativity, Technology & Human Insight
 </div>
 ---
 
-## 👋 Who I Am
+## 👋 Who Am I
 
 I'm someone who bridges creativity, technology, and human insight. I don't just build products — I think about **the impact behind the idea**, combining design, logic, and intention to create digital experiences that people actually connect with.
 
@@ -17,9 +17,6 @@ I'm detail-driven, analytical, and someone who overthinks until things make perf
 ---
 
 ## 🚀 What I'm Building Right Now
-
-### **[FocusUp](https://github.com/yourusername/focusup)** — Behavioral Productivity Tool
-Combining thoughtful design, behavioral psychology, and solid technology to help people stay disciplined and motivated. This represents my approach: products that connect humans and technology in smart, intentional ways.
 
 ### **Interactive Portfolio Website** (In Progress)
 A two-layer experience showcasing both personality and professionalism — because portfolios shouldn't be boring.  
