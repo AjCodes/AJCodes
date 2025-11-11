@@ -181,7 +181,7 @@ I'm always open to collaborating on interesting projects or just having a chat a
   
 ![Profile Views](https://komarev.com/ghpvc/?username=MakazhanAlpamys&color=blueviolet&style=for-the-badge)
 
-**Made with ❤️ and lots of ☕**
+**Made with ❤️ and lots of sleepless nights**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
