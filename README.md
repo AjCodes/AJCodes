@@ -1,6 +1,6 @@
 <div align="center">
-AJ
-Bridging Creativity, Technology & Human Insight
+## AJ
+Building Digital Products That Connect Humans & Technology in Intentional Ways
 
 </div>
 ---
