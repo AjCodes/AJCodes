@@ -22,8 +22,8 @@ That mindset helps me spot patterns, weaknesses, and opportunities others miss.
 
 ### **Interactive Portfolio Website** (In Progress)
 A two-layer experience showcasing both personality and professionalism — because portfolios shouldn't be boring.  
-🎯 **Layer 1:** The Professional Portal (multicultural journey, interests, Easter eggs)  
-💼 **Layer 2:** The Experience(OS simulator-style interface with AI chatbot)
+🎯 **Layer 1:** The Professional Portal (clean and professional user centered design)  
+💼 **Layer 2:** The Creative/Playful Portal (OS simulator-style interface with AI chatbot)
 
 ### **AI Traffic Light Automation** (Group Project)
 Applying AI to urban infrastructure challenges — optimizing traffic flow through intelligent system design.
