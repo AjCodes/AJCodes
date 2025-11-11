@@ -37,6 +37,7 @@ const aboutMe = {
 
 ## 🚀 Featured Projects
 
+<<<<<<< HEAD
 <div align="center">
   
 | Project | Description | Tech Stack |
@@ -45,6 +46,12 @@ const aboutMe = {
 | 🎨 **[Portfolio Website](https://github.com/AjCodes/Portfolio-Website)** | Two-layer interactive portfolio with personality-driven design | React • Framer Motion • Tailwind • Three.js |
 | 🧟 **The Last Shelter** | 2D zombie survival game with comprehensive mechanics | Godot Engine • GDScript |
 | ✅ **DayCraft** | Productivity web app combining Pomodoro, tasks & habits | React • PWA |
+=======
+### **Interactive Portfolio Website** (In Progress)
+A two-layer experience showcasing both personality and professionalism — because portfolios shouldn't be boring.  
+🎯 **Layer 1:** The Professional Portal (clean and professional user centered design)  
+💼 **Layer 2:** The Creative/Playful Portal (OS simulator-style interface with AI chatbot)
+>>>>>>> f9d034b921660532efb251b3da27408c64a33847
 
 </div>
 
