@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Who I Am
+## 👋 Who Am I
 
 I'm someone who bridges creativity, technology, and human insight. I don't just build products — I think about **the impact behind the idea**, combining design, logic, and intention to create digital experiences that people actually connect with.
 
