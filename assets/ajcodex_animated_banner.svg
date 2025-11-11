@@ -10,20 +10,37 @@
       <animate attributeName="x2" values="100%;0%" dur="12s" repeatCount="indefinite"/>
     </linearGradient>
   </defs>
-  <path fill="#ff6b88" d="M0,300 C300,280 600,320 900,300 1200,320 L1200,400 L0,400 Z">
+  <!-- Background waves (behind text) -->
+  <path fill="#1a2942" opacity="0.6" d="M0,120 C300,80 600,160 900,120 C1200,160 1200,160 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; -60 0; 0 0" dur="18s" begin="0s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#253552" opacity="0.7" d="M0,160 C300,120 600,200 900,160 C1200,200 1200,200 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 50 0; 0 0" dur="15s" begin="1s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Mid-layer waves -->
+  <path fill="#ff6b88" opacity="0.3" d="M0,200 C300,150 600,250 900,200 C1200,250 1200,250 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 45 0; 0 0" dur="13s" begin="0s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#ff8ea1" opacity="0.4" d="M0,230 C300,180 600,280 900,230 C1200,280 1200,280 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; -50 0; 0 0" dur="14s" begin="2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Foreground waves (in front of text) -->
+  <path fill="#ff6b88" opacity="0.8" d="M0,280 C300,240 600,320 900,280 C1200,320 1200,320 1200,400 L0,400 Z">
     <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="0s" repeatCount="indefinite"/>
   </path>
-  <path fill="#ff8ea1" d="M0,310 C300,290 600,330 900,310 1200,330 L1200,400 L0,400 Z">
-    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="2s" repeatCount="indefinite"/>
+  <path fill="#ff8ea1" opacity="0.85" d="M0,300 C300,260 600,340 900,300 C1200,340 1200,340 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; -45 0; 0 0" dur="11s" begin="1.5s" repeatCount="indefinite"/>
   </path>
-  <path fill="#ffb3b0" d="M0,320 C300,300 600,340 900,320 1200,340 L1200,400 L0,400 Z">
-    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="4s" repeatCount="indefinite"/>
+  <path fill="#ffb3b0" opacity="0.9" d="M0,320 C300,280 600,360 900,320 C1200,360 1200,360 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 35 0; 0 0" dur="13s" begin="3s" repeatCount="indefinite"/>
   </path>
-  <path fill="#ffcfc0" d="M0,330 C300,310 600,350 900,330 1200,350 L1200,400 L0,400 Z">
-    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="6s" repeatCount="indefinite"/>
+  <path fill="#ffcfc0" opacity="0.95" d="M0,340 C300,300 600,380 900,340 C1200,380 1200,380 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; -40 0; 0 0" dur="14s" begin="4.5s" repeatCount="indefinite"/>
   </path>
-  <path fill="#ffe1d0" d="M0,340 C300,320 600,360 900,340 1200,360 L1200,400 L0,400 Z">
-    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 40 0; 0 0" dur="12s" begin="8s" repeatCount="indefinite"/>
+  <path fill="#ffe1d0" d="M0,360 C300,320 600,390 900,360 C1200,390 1200,390 1200,400 L0,400 Z">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0; 30 0; 0 0" dur="15s" begin="6s" repeatCount="indefinite"/>
   </path>
   <text x="50%" y="40%" text-anchor="middle" font-size="64" font-family="Poppins, sans-serif" fill="url(#textGradient)">AJ</text>
   <text x="50%" y="55%" text-anchor="middle" font-size="24" font-family="Poppins, sans-serif" fill="url(#textGradient)">Full-Stack Developer Who Thinks Beyond The Code</text>
