@@ -37,7 +37,6 @@ const aboutMe = {
 
 ## 🚀 Featured Projects
 
-<<<<<<< HEAD
 <div align="center">
   
 | Project | Description | Tech Stack |
@@ -46,12 +45,12 @@ const aboutMe = {
 | 🎨 **[Portfolio Website](https://github.com/AjCodes/Portfolio-Website)** | Two-layer interactive portfolio with personality-driven design | React • Framer Motion • Tailwind • Three.js |
 | 🧟 **The Last Shelter** | 2D zombie survival game with comprehensive mechanics | Godot Engine • GDScript |
 | ✅ **DayCraft** | Productivity web app combining Pomodoro, tasks & habits | React • PWA |
-=======
+
 ### **Interactive Portfolio Website** (In Progress)
 A two-layer experience showcasing both personality and professionalism — because portfolios shouldn't be boring.  
 🎯 **Layer 1:** The Professional Portal (clean and professional user centered design)  
 💼 **Layer 2:** The Creative/Playful Portal (OS simulator-style interface with AI chatbot)
->>>>>>> f9d034b921660532efb251b3da27408c64a33847
+
 
 </div>
 
@@ -61,8 +60,8 @@ A two-layer experience showcasing both personality and professionalism — becau
 
 <div align="center">
   
-<a href="https://github.com/MakazhanAlpamys">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakazhanAlpamys&theme=radical" alt="Profile Summary" />
+<a href="https://github.com/AJCodes">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AJCodes&theme=radical" alt="Profile Summary" />
 </a>
 
 </div>
@@ -71,18 +70,18 @@ A two-layer experience showcasing both personality and professionalism — becau
 <table>
 <tr>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MakazhanAlpamys&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AJCodes&theme=radical" alt="Repos per Language" />
 </td>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakazhanAlpamys&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AJCodes&theme=radical" alt="Most Commit Language" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MakazhanAlpamys&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AJCodes&theme=radical" alt="Stats" />
 </td>
 <td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MakazhanAlpamys&theme=radical&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AJCodes&theme=radical&utcOffset=1" alt="Productive Time" />
 </td>
 </tr>
 </table>
@@ -123,12 +122,12 @@ A two-layer experience showcasing both personality and professionalism — becau
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MakazhanAlpamys&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakazhanAlpamys&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AJCodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJCodes&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakazhanAlpamys&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AJCodes&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -136,7 +135,7 @@ A two-layer experience showcasing both personality and professionalism — becau
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MakazhanAlpamys&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AJCodes&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
