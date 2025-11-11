@@ -5,7 +5,7 @@
 
 <br/>
 
-**🇾🇪 Born in Yemen → 🇲🇾 Shaped in Malaysia → 🇳🇱 Creating in the Netherlands**
+
 
 </div>
 
