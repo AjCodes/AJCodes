@@ -5,7 +5,7 @@
 
 <br/>
 
-**🇾🇪 Origin - Yemen → 🇲🇾 Home - Malaysia → 🇳🇱 Future-Home - Netherlands**
+** Origin 🇾🇪 → Home  🇲🇾 →  Future-Home 🇳🇱**
 
 </div>
 
