@@ -2,13 +2,6 @@
   <img src="assets/ajcodex_animated_banner.svg" alt="AJ Codex Banner" width="100%"/>
 </p>
 
-<div align="center">
-
-## AJ  
-Building Digital Products That Connect Humans & Technology in Intentional Ways
-
-</div>
-
 ---
 
 ## 👋 Who Am I
